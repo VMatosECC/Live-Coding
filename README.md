@@ -1,4 +1,4 @@
-##**Live Coding**##
+##Live Coding##
 
 - C++ solutions created during CS1 and CS2 Live-Coding sessions.
 - Each solution is prefixed with the course section ID. 
